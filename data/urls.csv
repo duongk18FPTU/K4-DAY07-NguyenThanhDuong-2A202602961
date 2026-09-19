@@ -1,0 +1,9 @@
+url,doc_id,title,audience,department,category,language,document_version,license_or_permission
+https://library.vinuni.edu.vn/services/borrow-and-request/undergraduate-and-staff/,borrow-undergraduate-and-staff,Borrow and request - Undergraduate students and staff,student,library,borrowing,en,not-stated,public-source
+https://library.vinuni.edu.vn/services/borrow-and-request/graduate-faculty-and-instructors/,borrow-graduate-faculty,Borrow and request - Graduate students faculty and instructors,faculty,library,borrowing,en,not-stated,public-source
+https://library.vinuni.edu.vn/services/borrow-and-request/vingroup-community/,borrow-vingroup-community,Borrow and request - Vingroup community,staff,library,borrowing,en,not-stated,public-source
+https://library.vinuni.edu.vn/borrowing-priviledge/,borrowing-privilege-overview,Borrowing privilege overview,all,library,borrowing,en,not-stated,public-source
+https://library.vinuni.edu.vn/about-us/hours-and-access/,library-hours-and-access,Library hours and access,all,library,access,en,not-stated,public-source
+https://library.vinuni.edu.vn/room-booking/,library-room-booking,Study room booking,student,library,facilities,en,not-stated,public-source
+https://library.vinuni.edu.vn/faq/,library-faq,Library frequently asked questions,all,library,faq,en,not-stated,public-source
+https://policy.vinuni.edu.vn/all-policies/library-policies-for-users/,library-access-services-policy,Library Access and Services Policy,all,library,policy,en,not-stated,public-source
